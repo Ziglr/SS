@@ -1,2 +1,2 @@
 # SSEncrypt.module
-A ahadowsocks module for Surge
+A shadowsocks module for Surge
